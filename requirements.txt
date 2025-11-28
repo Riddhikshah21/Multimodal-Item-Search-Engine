@@ -1,0 +1,6 @@
+open-clip-torch
+chromadb
+numpy 
+pillow 
+torch 
+torchvision
