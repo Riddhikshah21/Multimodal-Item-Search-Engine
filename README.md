@@ -27,3 +27,10 @@ A Pinterest-style multimodal search engine that allows users to search for produ
 *FastAPI*: Web framework for API (coming soon)
 *Pandas*: Data manipulation
 *Pillow*: Image processing
+
+## Next Steps
+
+Build Backend with FastAPI
+Test API: Use Swagger UI at /docs to test all endpoints
+Build Frontend: Connect a frontend application to these APIs
+Deploy: Deploy to your preferred platform (Docker, cloud, etc.)
