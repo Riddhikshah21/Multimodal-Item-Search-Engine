@@ -31,5 +31,5 @@ A Pinterest-style multimodal search engine that allows users to search for produ
 
 ## Next Steps
 
-Build Frontend: Connect a frontend application to these APIs
-Deploy: Deploy to Docker.
+- Build Frontend: Connect a frontend application to these APIs
+- Deploy: Deploy to Docker.
