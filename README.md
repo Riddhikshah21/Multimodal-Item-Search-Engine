@@ -10,7 +10,8 @@ A Pinterest-style multimodal search engine that allows users to search for produ
 - Vector Similarity: Uses CLIP embeddings for semantic understanding
 - Fast Retrieval: ChromaDB for efficient vector search
 - ChromaDB: open source vector database 
-- CLIP model: multimodal vision and language model 
+- CLIP model: multimodal vision and language model
+- FastAPI: serves real-time queries 
 
 ## How It Works
 
@@ -30,7 +31,5 @@ A Pinterest-style multimodal search engine that allows users to search for produ
 
 ## Next Steps
 
-Build Backend with FastAPI
-Test API: Use Swagger UI at /docs to test all endpoints
 Build Frontend: Connect a frontend application to these APIs
-Deploy: Deploy to your preferred platform (Docker, cloud, etc.)
+Deploy: Deploy to Docker.
